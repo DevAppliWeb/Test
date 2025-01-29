@@ -2,7 +2,7 @@
 public class TestClass {
 
 	public static void main(String[] args) {
-		System.out.println("Test Simple autre moniteur");
+		System.out.println("Test Simple");
 	}
 
 }
